@@ -1,0 +1,6 @@
+/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/CMakeFiles/shared_ptr_testing.dir
+/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/CMakeFiles/rebuild_cache.dir
+/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/CMakeFiles/edit_cache.dir
+/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/CMakeFiles/gtest.dir

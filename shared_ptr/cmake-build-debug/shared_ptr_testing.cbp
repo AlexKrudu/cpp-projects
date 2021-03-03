@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="shared_ptr_testing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\gtest\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shared_ptr_testing">
+				<Option output="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/shared_ptr_testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/alexkrudu/CLionProjects/shared_ptr_task/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 shared_ptr_testing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shared_ptr_testing/fast">
+				<Option output="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/shared_ptr_testing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/alexkrudu/CLionProjects/shared_ptr_task/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 shared_ptr_testing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/alexkrudu/CLionProjects/shared_ptr_task/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/alexkrudu/CLionProjects/shared_ptr_task/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/alexkrudu/CLionProjects/shared_ptr_task/cmake-build-debug/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/gtest/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/gtest/gtest.h">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/main.cpp">
+			<Option target="shared_ptr_testing"/>
+		</Unit>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/shared_ptr.h">
+			<Option target="shared_ptr_testing"/>
+		</Unit>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/test_object.cpp">
+			<Option target="shared_ptr_testing"/>
+		</Unit>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/test_object.h">
+			<Option target="shared_ptr_testing"/>
+		</Unit>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/alexkrudu/CLionProjects/shared_ptr_task/gtest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\gtest\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

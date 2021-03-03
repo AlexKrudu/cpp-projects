@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shared_ptr_testing.dir/main.cpp.o CMakeFiles/shared_ptr_testing.dir/test_object.cpp.o  -o shared_ptr_testing  gtest/libgtest.a -lpthread 
